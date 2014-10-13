@@ -16,6 +16,13 @@ var nopt = require("nopt")
     }
 ;
 
+// XXX
+//  - grab version of self, and version online, and compare — warn if outdated
+//      - cache the online version
+//  - docs
+//  - npm publish
+
+
 // defaults
 if (!parsed.dir) parsed.dir = process.cwd();
 
@@ -66,14 +73,3 @@ else {
     showHelp();
     process.exit(1);
 }
-
-// XXX
-//  - grab version of self, and version online, and compare — warn if outdated
-//      - cache the online version
-//  - parse args here
-//  - docs
-//  - have res dir with all useful data
-//  - ask if user wants to run their own bikeshed, get path
-//  - add Travis + package.json for linting?
-//  - npm publish
-
