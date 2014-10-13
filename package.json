@@ -1,0 +1,14 @@
+{
+    "name":     "webspec"
+,   "version":  "0.0.1"
+,   "license":  "MIT"
+,   "author":   "Robin Berjon"
+,   "dependencies": {
+        "prompt":   "0.2.14"
+    ,   "chalk":    "0.5.1"
+    ,   "nopt":     "3.0.1"
+    }
+,   "bin": {
+        "webspec":  "bin/webspec.js"
+    }
+}
