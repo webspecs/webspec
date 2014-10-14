@@ -1,0 +1,24 @@
+<h1>###title###</h1>
+
+<pre class='metadata'>
+Shortname: ###shortname###
+Group: WebSpecs
+Abstract: This specification is plain and simple wicked sweet.
+</pre>
+
+<h2 id='intro'>
+Introduction</h2>
+
+    Call me Ishmael. The sky above the port was the color of television, tuned to a dead channel. It
+    was a bright cold day in April, and the clocks were striking thirteen. It was the best of times,
+    it was the worst of times, it was the age of wisdom, it was the age of foolishness, it was the
+    epoch of belief, it was the epoch of incredulity, it was the season of Light, it was the season
+    of Darkness, it was the spring of hope, it was the winter of despair. Stately, plump Buck
+    Mulligan came from the stairhead, bearing a bowl of lather on which a mirror and a razor lay
+    crossed.
+
+    One summer afternoon Mrs. Oedipa Maas came home from a Tupperware party whose hostess had put
+    perhaps too much kirsch in the fondue to find that she, Oedipa, had been named executor, or she
+    supposed executrix, of the estate of one Pierce Inverarity, a California real estate mogul who
+    had once lost two million dollars in his spare time but still had assets numerous and tangled
+    enough to make the job of sorting it all out more than honorary.
