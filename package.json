@@ -7,6 +7,7 @@
         "prompt":   "0.2.14"
     ,   "chalk":    "0.5.1"
     ,   "nopt":     "3.0.1"
+    ,   "openurl":  "1.1.0"
     }
 ,   "bin": {
         "webspec":  "bin/webspec.js"
