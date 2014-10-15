@@ -14,6 +14,7 @@ var nopt = require("nopt")
 ,   parsed = nopt(knownOpt, shorthand)
 ,   cmdMap = {
         "new":  require("../lib/new")
+    ,   check:  require("../lib/check")
     }
 ;
 
