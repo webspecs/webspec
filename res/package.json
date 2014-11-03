@@ -1,0 +1,11 @@
+{
+    "name": "###shortname###",
+    "version": "0.0.1",
+    "description": "###title###",
+    "scripts": {
+        "test": "node ./node_modules/webspec/bin/webspec.js check --tap"
+    },
+    "devDependencies": {
+        "webspec":      "*"
+    }
+}
