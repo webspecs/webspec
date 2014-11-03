@@ -20,10 +20,11 @@ GitHub repository (that's where it will have to go eventually, and having it rig
 more useful information to the tool). The `--dir` option can be shortened to `-d`; it defaults to
 the current directory.
 
-## `webspec check`
+## `webspec check [--tap]`
 
 Runs a series of automated checks to make sure your WebSpec adheres to the guidelines, does some
-linting, etc.
+linting, etc. The `--tap` option makes the check use TAP as its output, which is good for
+integration with various automated systems.
 
 ## `webspec version`
 

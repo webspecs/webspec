@@ -7,9 +7,11 @@ var nopt = require("nopt")
 ,   version = require("../package.json").version
 ,   knownOpt = {
         dir:    pth
+    ,   tap:    Boolean
     }
 ,   shorthand = {
         d:  ["--dir"]
+    ,   t:  ["--tap"]
     }
 ,   parsed = nopt(knownOpt, shorthand)
 ,   cmdMap = {
