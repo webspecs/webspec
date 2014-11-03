@@ -21,7 +21,6 @@ var nopt = require("nopt")
 // XXX
 //  - grab version of self, and version online, and compare — warn if outdated
 //      - cache the online version
-//  - npm publish
 
 
 // defaults
