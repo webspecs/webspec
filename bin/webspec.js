@@ -52,6 +52,11 @@ function showHelp () {
     ,   "Takes a path to the directory (expected but not required to be a git repository)."
     ,   "Defaults to the current directory."
     ,   ""
+    ,   chalk.bold("check [--tap]")
+    ,   "Runs a series of automated checks to make sure your WebSpec adheres to the guidelines,"
+    ,   "does some linting, etc. The --tap option makes the check use TAP as its output, which is"
+    ,   "good for integration with various automated systems."
+    ,   ""
     ].join("\n");
     console.log(help);
 }
